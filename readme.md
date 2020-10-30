@@ -1,4 +1,4 @@
-# ECE444-flaskr-tdd2
+# ECE444-F2020-Lab6
 Replay of tutorial from https://github.com/mjhea0/flaskr-tdd
 
 **View the app on [Heroku](https://vast-river-13349.herokuapp.com/)**
