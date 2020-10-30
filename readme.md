@@ -3,6 +3,8 @@ Replay of tutorial from https://github.com/mjhea0/flaskr-tdd
 
 **View the app on [Heroku](https://vast-river-13349.herokuapp.com/)**
 
+**Test added to project: https://github.com/ECE444-2020Fall/project1-webapp-group8-localghosts/blob/search-front-end/apprentice/tests/test_search_page.py#L6-L22**
+
 ## Pros and Cons of TDD
 
 ### Pros of test driven development
